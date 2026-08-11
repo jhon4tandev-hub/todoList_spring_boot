@@ -23,3 +23,13 @@ API RESTful para gerenciamento de tarefas (To-Do List) desenvolvida com **Java 1
 ## 🛠️ Como Executar a Aplicação
 
 1. Clone o repositório:
+2.  A aplicação estará disponível em `http://localhost:8080`.
+
+## 📖 Documentação da API (Swagger UI)
+
+Com a aplicação rodando, acesse a interface interativa do Swagger no navegador:
+👉 **`http://localhost:8080/swagger-ui.html`**
+
+## 🧪 Como Executar os Testes Automatizados
+
+Para rodar a suíte de testes de integração:
